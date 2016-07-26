@@ -1,14 +1,14 @@
-layout_spectrum: 0.16142118838615716
-typography_spectrum: 0.36496288958005607
+layout_spectrum: 0.3735713844653219
+typography_spectrum: 0.48589001735672355
 color:
-  brandStrength: 0.26810497185215354
-  lightness: 0.8879527740646154
-  saturation: 0.6220897694583982
-  rhythmicContrast: 0.44714078889228404
+  brandStrength: 0.6205115471966565
+  lightness: 0.724471848225221
+  saturation: 0.126580105163157
+  rhythmicContrast: 0.2862694221548736
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
 name: Dorcan Scouts
