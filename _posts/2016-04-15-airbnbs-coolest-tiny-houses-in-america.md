@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-26T19:57:13.895Z'
+datePublished: '2016-07-26T20:16:14.652Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel
-hasPage: false
+hasPage: true
 keywords:
   - bedroom
   - bathroom
@@ -21,7 +19,7 @@ author:
   - name: Nadia Imafidon
     url: 'https://www.thrillist.com/authors/nadia-imafidon'
     avatar: {}
-dateModified: '2016-07-26T19:57:13.034Z'
+dateModified: '2016-07-26T20:16:13.981Z'
 title: Airbnb's Coolest Tiny Houses in America
 app_links:
   - type: iphone
@@ -40,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: airbnbs-coolest-tiny-houses-in-america/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
