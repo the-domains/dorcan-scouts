@@ -1,14 +1,14 @@
-layout_spectrum: 0.3735713844653219
-typography_spectrum: 0.48589001735672355
+layout_spectrum: 0.9911336142104119
+typography_spectrum: 0.04451345279812813
 color:
-  brandStrength: 0.6205115471966565
-  lightness: 0.724471848225221
-  saturation: 0.126580105163157
-  rhythmicContrast: 0.2862694221548736
+  brandStrength: 0.7859505999367684
+  lightness: 0.6854623968247324
+  saturation: 0.9756817249581218
+  rhythmicContrast: 0.6537193581461906
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: 1st Dorcan Scouts
