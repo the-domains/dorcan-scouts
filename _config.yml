@@ -12,3 +12,7 @@ color:
     - '#ACCFCC'
     - '#8A0917'
 name: 1st Dorcan Scouts
+navigation:
+  - name: goggle
+    url: 'http://www.goolge.co.uk'
+    type: external
